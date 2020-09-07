@@ -1,0 +1,3 @@
+[submodule "src/lib/mathfu"]
+	path = src/lib/mathfu
+	url = https://github.com/google/mathfu.git
